@@ -8,10 +8,10 @@ A comprehensive and user-friendly web-based system designed to facilitate Bankin
 <li>Secure Login and Session Handling </li>
 
 
-<li>🛠️ Tech Stack</li>
+<div>🛠️ Tech Stack
 <li>
 Frontend	Backend	Database	Other
 </li>NetBeans </li>
 </li>Java</li>
 </li>MySQL</li>
-</li>
+</div>
