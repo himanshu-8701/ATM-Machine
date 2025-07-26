@@ -5,13 +5,13 @@ A comprehensive and user-friendly web-based system designed to facilitate Bankin
 <li>Signup and Login panal for starting the transection</li>
 <li> User Friendly interface for all age people </li> 
 <li>Real-time transection</li>
-<li>Secure Login and Session Handling</li>
+<li>Secure Login and Session Handling </li>
 
 
-<p>🛠️ Tech Stack
+<li>🛠️ Tech Stack</li>
 <li>
 Frontend	Backend	Database	Other
 </li>NetBeans </li>
 </li>Java</li>
 </li>MySQL</li>
-</p>
+</li>
